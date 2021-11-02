@@ -10,3 +10,5 @@ hal penting dalam github
 COMMIT = menyimpan semacam checkpoint dan memberikan sebuah pesan untuk memudahkan mengetahui perubahan di file ini, dan dapat kembali pada check point
 BRANCH = Membuat cabang keluar dari branch master. berguna katika ragu untuk menambah fitur dan berguna ketika kerja tim 
 MERGE = menghubungkan branch(cabang) kembali ke branch master. digunakan ketika branch akan digunakan dan saat menggabungkan hasil kerja tim 
+
+dalam github VCS, VCS adalah sebuah system yang dapat merekam segala perubahan pada file atau shource code
