@@ -1,14 +1,17 @@
 github adalah salah satu layanan clode untuk menyimpan mengelola sebuah project secara online
 intinya github adalah sebuah layanan yang bisa merekam perubahan pada file project
 
+dalam github VCS, VCS adalah sebuah system yang dapat merekam segala perubahan pada file atau shource code
+
 MANFAAT GITHUB
 - mudah berkolaborasi kerja tim lebih efisien
 - dapat kembali ke keadaan sebelum file berubah
 - mengetahui siapa dan kapan file diubah
+
+ketika melakukan perubahan semua dapat perlihat pada history commit, baris tesk yang ditambah akan berwarna hijau dan yang dihapus akan berwarna merah
 
 hal penting dalam github
 COMMIT = menyimpan semacam checkpoint dan memberikan sebuah pesan untuk memudahkan mengetahui perubahan di file ini, dan dapat kembali pada check point
 BRANCH = Membuat cabang keluar dari branch master. berguna katika ragu untuk menambah fitur dan berguna ketika kerja tim 
 MERGE = menghubungkan branch(cabang) kembali ke branch master. digunakan ketika branch akan digunakan dan saat menggabungkan hasil kerja tim 
 
-dalam github VCS, VCS adalah sebuah system yang dapat merekam segala perubahan pada file atau shource code
